@@ -15,3 +15,5 @@ OUTPUTS:
    [chat_report.pdf](https://github.com/user-attachments/files/20729763/chat_report.pdf)
 4. Chatbot:
    ![Image](https://github.com/user-attachments/assets/828bbe8d-60e8-412d-bb98-c47f5f8e6192)
+5. Machine Learning using Scikit-Learn :
+   [song_genre_classifier.pdf](https://github.com/user-attachments/files/20729981/song_genre_classifier.pdf)
